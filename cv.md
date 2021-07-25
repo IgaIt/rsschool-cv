@@ -15,5 +15,5 @@ Since I work at my main place of work, not related to programming, I have to wak
 ### Education:
 **Online-Course:** 
 [JavaScript v 2.0 (trainer Alex Lushchenko)](https://itgid.info/course/javascript-2) - *Received a certificate of successful completion of the course* [Link to Sertificate](https://drive.google.com/file/d/1gHuMEeDqgVCY7C_WC5aYjzwvJbyrQHZu/view?usp=sharing)
-        ### English: 
+### English: 
 **Level:** *Elementary(A1+, A2)*
