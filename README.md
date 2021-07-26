@@ -1,1 +1,1 @@
-https://IgaIt.github.io/rsschool-cv/cv
+https://IgaIt.github.io/rsschool-cv/
